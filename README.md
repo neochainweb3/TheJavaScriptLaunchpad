@@ -36,7 +36,7 @@ Node.js: Backend fundamentals (optional)
 APIs & Fetch: Learn to consume data and build interactive apps
 
 # 🚀 Key Features
-#Over 30 coding examples with step-by-step guides
+# Over 30 coding examples with step-by-step guides
 
 # Projects like interactive quizzes, weather apps, to-do lists, and e-commerce websites
 
