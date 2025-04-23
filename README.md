@@ -1,7 +1,7 @@
-The JavaScript Launchpad
+# The JavaScript Launchpad
 Welcome to The JavaScript Launchpad, a comprehensive guide to mastering JavaScript and building stunning web applications. Whether you’re a beginner or experienced developer, this book will take you from the fundamentals of JavaScript to building real-world, dynamic, and responsive frontends.
 
-📚 About the Book
+# 📚 About the Book
 The JavaScript Launchpad covers essential topics such as:
 
 JavaScript basics, syntax, and advanced features
