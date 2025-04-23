@@ -52,7 +52,7 @@ To get started with the projects in this book, clone the repository and open the
 
 bash
 Copy
-git clone https://github.com/yourusername/JavaScript-Launchpad.git
+git clone https://github.com/neochainweb3/JavaScript-Launchpad.git
 cd JavaScript-Launchpad
 Each chapter contains corresponding code files you can run and experiment with.
 
@@ -61,7 +61,7 @@ Clone the repo:
 
 bash
 Copy
-git clone https://github.com/yourusername/JavaScript-Launchpad.git
+git clone https://github.com/neochainweb3/JavaScript-Launchpad.git
 Navigate into the folder:
 
 bash
